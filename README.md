@@ -1,2 +1,2 @@
 # AtvStrategy
-Atividade sobre o Design Pattern Strategy, desenvolvida com ajuda do agente copilot do GitHub
+Uma Simulação de calculadora de média escolar/acadêmica, realizada com os conceitos de Design Pattern Strategy, aprendidos na aula de Engenharia de Software III
